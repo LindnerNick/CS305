@@ -17,5 +17,6 @@ How did you make certain the code and software application were functional and s
 
 What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
+I think the use of algorithms and checksum verifcation will be extremely usful in the future. I also think that the dependancy checks, and being able to determine false postives will help keep future code safe and secure. 
 
 Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
