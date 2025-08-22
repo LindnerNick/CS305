@@ -18,6 +18,7 @@ How did you increase layers of security? In the future, what would you use to as
 
 How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
+<-After the refactoring of the code a second dependancy check was run to identify additonal vulnerabilities.->
 
 What resources, tools, or coding practices did you use that might be helpful in future assignments or tasks?
 
