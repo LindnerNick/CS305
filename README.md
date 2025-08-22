@@ -23,4 +23,6 @@ What resources, tools, or coding practices did you use that might be helpful in 
 
 <-I think the use of algorithms and checksum verifcation will be extremely usful in the future. I also think that the dependancy checks, and being able to determine false postives will help keep future code safe and secure.->
 
-Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment?
+Employers sometimes ask for examples of work that you have successfully completed to show your skills, knowledge, and experience. What might you show future employers from this assignment? 
+
+<-I think this assigment will show an example of how manaul code review is imporant, as well as show the proper use of check some and ciphers to safely transfer data.->
