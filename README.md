@@ -4,7 +4,6 @@ Briefly summarize your client, Artemis Financial, and its software requirements.
 
 <-Artemis Fiancial is a company that wants to modernize its operations and increase security for its client data. Most of the project is protection of data transfer, for this the use of ciphers, alogrthms, and checksums where used.->
 
-
 What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?
 
 <-Learning to do manual code review can be a huge step in catching a lot of early on errors. In the code files we can see that naming convention of classes allow is an issue. Doing regular code review can not only catch mistakes and errors but will help code quaility was well.-> 
@@ -15,6 +14,7 @@ Which part of the vulnerability assessment was challenging or helpful to you?
 
 How did you increase layers of security? In the future, what would you use to assess vulnerabilities and decide which mitigation techniques to use?
 
+<-Layers of security where increased by, identifying the need to verfiy input as code could be feed and run through input. The use of a cipher to transfer data encrypted as well as a checksum to verfiy the data was not changed in transit. Also the use of dependecy checks to identify needed updates.->
 
 How did you make certain the code and software application were functional and secure? After refactoring the code, how did you check to see whether you introduced new vulnerabilities?
 
